@@ -6,7 +6,7 @@
     },
     {
       "id": 2,
-      "nome": "Calota "
+      "nome": "Calota"
     },
     {
       "id": 34,
@@ -14,8 +14,9 @@
     },
     {
       "id": 35,
-      "nome": "Farol"
+      "nome": "Farol Baixo"
     }
+    
   ],
   "clientes": [
     {
