@@ -6,11 +6,15 @@
     },
     {
       "id": 2,
-      "nome": "Calota"
+      "nome": "Calota "
     },
     {
       "id": 34,
       "nome": "Volante"
+    },
+    {
+      "id": 35,
+      "nome": "Farol"
     }
   ],
   "clientes": [
