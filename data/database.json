@@ -17,7 +17,8 @@
     },
     {
       "id": 40,
-      "nome": "Seta"
+      "nome": "Seta",
+      "tipo": "Controle"
     },
     {
       "id": 41,
